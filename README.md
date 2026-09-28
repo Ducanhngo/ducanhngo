@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Duc Anh GitHub Profile Banner">
+<img src="./assets/banner.svg" width="100%" alt="Duc Anh GitHub Banner">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;AI+%26+Machine+Learning;Computer+Vision+%26+NLP;Java+%2B+Spring+Boot+Backend;Building+%E2%80%A2+Learning+%E2%80%A2+Creating" alt="Typing SVG">
+### `Computer Science × Artificial Intelligence × Software Engineering`
+
+<sub>
+Building intelligent systems, learning how they work, and turning ideas into real software.
+</sub>
 
 </div>
 
@@ -12,436 +16,385 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-<h2 align="center">✨ Profile ✨</h2>
+<td width="68%" valign="top">
+
+<h2>⚡ SYSTEM.PROFILE</h2>
 
 <p>
-Hi, I'm <b>Duc Anh</b>, a Computer Science student interested in building intelligent and practical software systems.
+Hi, I'm <b>Duc Anh</b> — a Computer Science student interested in building
+systems that combine <b>Artificial Intelligence</b> with practical software engineering.
 </p>
 
 <p>
-My main interests are <b>Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, Backend Engineering, and IoT</b>.
+My main areas of interest are:
 </p>
 
 <p>
-I enjoy combining AI with real applications: object detection, NLP systems, smart devices, web applications, databases, APIs, and automation.
+🧠 <b>Artificial Intelligence & Machine Learning</b><br>
+👁️ <b>Computer Vision</b><br>
+📝 <b>Natural Language Processing</b><br>
+☕ <b>Java & Spring Boot Backend</b><br>
+🌐 <b>Computer Networks & APIs</b><br>
+🤖 <b>IoT & Intelligent Devices</b>
 </p>
-
-<p>
-<b>🎯 Current Goal:</b> AI Engineer<br>
-<b>🐧 Main OS:</b> Fedora Linux<br>
-<b>💻 Main Languages:</b> Python & Java<br>
-<b>🧠 Main Focus:</b> AI / ML / CV / NLP<br>
-<b>⚙️ Backend:</b> Spring Boot / Flask / REST API
-</p>
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ducanhngo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  width="100%"
-  alt="Duc Anh GitHub Stats"
-/>
 
 <br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ducanhngo&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-  width="100%"
-  alt="Top Languages"
-/>
+<pre>
+CURRENT_STATUS
+────────────────────────────────────
+Role        : Computer Science Student
+Goal        : AI Engineer
+Main OS     : Fedora Linux
+AI          : Python • PyTorch • YOLO
+Backend     : Java • Spring Boot
+Database    : MySQL • Firebase
+Current     : Building + Learning
+────────────────────────────────────
+</pre>
 
 </td>
+
+<td width="32%" align="center" valign="middle">
+
+<img
+src="https://avatars.githubusercontent.com/u/104834316?v=4"
+width="220"
+alt="Duc Anh">
+
+<br><br>
+
+<h3>Duc Anh</h3>
+
+<code>@Ducanhngo</code>
+
+<br><br>
+
+<b>AI • Backend • Linux</b>
+
+<br><br>
+
+<a href="https://github.com/Ducanhngo?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0969DA?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
 </tr>
 </table>
 
-<br>
+---
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
+## `01 / WHOAMI`
 
 ```json
 {
-  "name": "Duc Anh",
-  "username": "Ducanhngo",
-  "role": "Computer Science Student",
+  "identity": {
+    "name": "Duc Anh",
+    "username": "Ducanhngo",
+    "role": "Computer Science Student"
+  },
 
-  "career_goal": "AI Engineer",
+  "mission": "Become an AI Engineer",
 
-  "interests": [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Deep Learning",
-    "Computer Vision",
-    "Natural Language Processing",
-    "Backend Engineering",
-    "Internet of Things"
-  ],
+  "interests": {
+    "artificial_intelligence": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
 
-  "languages": [
-    "Python",
-    "Java"
-  ],
+    "software_engineering": [
+      "Backend Development",
+      "REST APIs",
+      "Databases",
+      "System Design"
+    ],
 
-  "backend": [
-    "Spring Boot",
-    "Flask",
-    "REST API"
-  ],
-
-  "databases": [
-    "MySQL",
-    "Firebase"
-  ],
-
-  "environment": {
-    "os": "Fedora Linux",
-    "editor": [
-      "VS Code",
-      "Eclipse"
+    "systems": [
+      "Linux",
+      "Computer Networks",
+      "IoT"
     ]
-  }
+  },
+
+  "philosophy": [
+    "Understand the fundamentals",
+    "Build real systems",
+    "Learn by experimentation"
+  ]
 }
 ```
 
-</td>
+---
 
-<td width="42%" align="center" valign="middle">
+# `02 / FEATURED SYSTEMS`
 
-<img
-  src="https://avatars.githubusercontent.com/u/104834316?v=4"
-  width="85%"
-  alt="Duc Anh"
-/>
+### 🤖 AI-Powered Checkout System
 
-</td>
+> `AI + Computer Vision + IoT + Web`
 
-</tr>
-</table>
+An intelligent retail checkout ecosystem combining **YOLOv11 object detection, RFID, Arduino, Flask, Firebase and Android applications**.
+
+`Python` `YOLO` `Flask` `Firebase` `Arduino` `RFID`
+
+[→ Explore repository](https://github.com/Ducanhngo/AI-Powered-Checkout-System)
 
 ---
 
-# I. 👨‍💻 About Me
+### 👁️ YOLOv10 Workplace Safety
 
-I am currently developing my knowledge in both **Artificial Intelligence** and **Software Engineering**.
+> `Computer Vision`
 
-Rather than focusing only on theoretical machine learning, I like to build complete systems involving:
+Computer-vision experiments using **YOLOv10** for workplace-safety detection and visual inference.
 
-- AI models
-- Backend servers
-- REST APIs
-- Databases
-- Web applications
-- IoT devices
-- Linux environments
+`Python` `YOLOv10` `Deep Learning` `Computer Vision`
 
-My long-term direction is to become an **AI Engineer capable of building production AI systems**, not only training models.
+[→ Explore repository](https://github.com/Ducanhngo/Project_YOLOv10_Worksafety)
 
 ---
 
-# II. 🚀 Projects Presentation
+### 🚗 Car Detection
 
-| ID | PROJECT | DESCRIPTION | REPOSITORY |
-|---:|---|---|---|
-| `01` | 🤖 **AI-Powered Checkout System** | Intelligent retail checkout platform combining YOLOv11, Flask, Firebase, Android, Arduino and RFID. | [View Project](https://github.com/Ducanhngo/AI-Powered-Checkout-System) |
-| `02` | 🚗 **Car Detection** | Computer-vision project for detecting and localizing vehicles in images and video streams. | [View Project](https://github.com/Ducanhngo/Car_Detection) |
-| `03` | 🦺 **YOLOv10 Work Safety** | YOLO-based computer-vision project for workplace safety detection and visual inference. | [View Project](https://github.com/Ducanhngo/Project_YOLOv10_Worksafety) |
-| `04` | 📄 **Document Q&A** | Streamlit application for asking questions about uploaded documents using language models. | [View Project](https://github.com/Ducanhngo/document-qa) |
-| `05` | 🧠 **Sarcasm Detection** | NLP project comparing classical ML and BERT for sentiment analysis and sarcasm detection. | [View Project](https://github.com/Ducanhngo/Sarcasm-Detection) |
-| `06` | 🖼️ **Text Image Project** | Experiments involving text processing and image-related AI workflows. | [View Project](https://github.com/Ducanhngo/Text_Image_Project) |
-| `07` | 🔬 **CNN Project** | Deep-learning experiments centered around convolutional neural networks and computer vision. | [View Project](https://github.com/Ducanhngo/CNN-Project) |
-| `08` | 🚙 **IoT Car Project** | IoT and embedded-system project combining vehicle control, hardware and software. | [View Project](https://github.com/Ducanhngo/Iot_Car_Project) |
-| `09` | 💡 **IoT Light Control** | Connected lighting project exploring IoT communication and remote device control. | [View Project](https://github.com/Ducanhngo/Iot-Light-Control) |
-| `10` | ❤️ **Heart Prediction** | Machine-learning project exploring prediction from health-related structured data. | [View Project](https://github.com/Ducanhngo/Heart_Prediction) |
+> `Object Detection`
+
+Vehicle-detection project exploring object detection, localization and real-time computer-vision workflows.
+
+`Python` `YOLO` `OpenCV`
+
+[→ Explore repository](https://github.com/Ducanhngo/Car_Detection)
 
 ---
 
-# III. 🛠️ Technologies & Tools
+### 🧠 Sarcasm Detection
 
-<h3 align="center">Artificial Intelligence</h3>
+> `Natural Language Processing`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
-</p>
+Comparing classical machine-learning approaches with deep-learning models for **sentiment analysis and sarcasm detection**.
 
-<h3 align="center">Backend & Databases</h3>
+`Python` `NLP` `BERT` `Machine Learning`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,flask,mysql,firebase,postman" />
-</p>
-
-<h3 align="center">Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,eclipse,bash" />
-</p>
-
-<h3 align="center">IoT & Hardware</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48"><br>
-<b>Python</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="48"><br>
-<b>Java</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48"><br>
-<b>PyTorch</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48"><br>
-<b>TensorFlow</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=opencv" width="48"><br>
-<b>OpenCV</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="48"><br>
-<b>Spring Boot</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flask" width="48"><br>
-<b>Flask</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"><br>
-<b>MySQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="48"><br>
-<b>Firebase</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="48"><br>
-<b>Postman</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="48"><br>
-<b>Linux</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="48"><br>
-<b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="48"><br>
-<b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=arduino" width="48"><br>
-<b>Arduino</b>
-</td>
-
-</tr>
-
-</table>
+[→ Explore repository](https://github.com/Ducanhngo/Sarcasm-Detection)
 
 ---
 
-# IV. 🧠 Knowledge Map
+### 📄 Document Q&A
+
+> `LLM Application`
+
+A document question-answering application allowing users to upload documents and interact with their contents.
+
+`Python` `Streamlit` `LLM` `NLP`
+
+[→ Explore repository](https://github.com/Ducanhngo/document-qa)
+
+---
+
+### 🌐 More experiments
+
+<p align="center">
+
+<a href="https://github.com/Ducanhngo/CNN-Project">
+<img src="https://img.shields.io/badge/CNN-Project-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Ducanhngo/Text_Image_Project">
+<img src="https://img.shields.io/badge/Text_Image-Project-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Ducanhngo/Iot_Car_Project">
+<img src="https://img.shields.io/badge/IoT-Car-181717?style=for-the-badge&logo=arduino">
+</a>
+
+<a href="https://github.com/Ducanhngo/Heart_Prediction">
+<img src="https://img.shields.io/badge/Heart-Prediction-181717?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+# `03 / TECH ARSENAL`
+
+### Artificial Intelligence
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn">
+
+</p>
+
+### Backend Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,flask,mysql,firebase,postman">
+
+</p>
+
+### Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vscode,eclipse">
+
+</p>
+
+### Hardware & IoT
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi">
+
+</p>
+
+---
+
+# `04 / KNOWLEDGE MAP`
 
 ```mermaid
 mindmap
   root((Duc Anh))
+
     Artificial Intelligence
+
       Machine Learning
         Classification
         Regression
         Feature Engineering
+
       Deep Learning
         Neural Networks
         CNN
         RNN
         LSTM
+
       Computer Vision
         YOLO
         Object Detection
         OpenCV
+
       NLP
+        Text Classification
         Sentiment Analysis
         Sarcasm Detection
-        Document Question Answering
         Embeddings
+        LLM Applications
 
-    Backend Engineering
-      Java
-        Spring Boot
-        Maven
-      Python
-        Flask
-        Streamlit
-      REST API
-      Authentication
-      Databases
+    Software Engineering
+
+      Backend
+        Java
+          Spring Boot
+          Maven
+        Python
+          Flask
+          Streamlit
+
+      API
+        REST
+        Postman
+
+      Database
         MySQL
         Firebase
 
     Computer Science
-      Databases
+
+      Database Systems
         ER Model
         Relational Model
         SQL
+
       Computer Networks
-        TCP IP
+        TCP/IP
         Subnetting
         FTP
         Wireshark
+
       Operating Systems
         Linux
         Fedora
 
     IoT
+
       Arduino
       RFID
       Sensors
-      Smart Devices
+      Embedded Systems
 
-    Development Tools
+    Tools
+
       Git
       GitHub
       Docker
-      Postman
       VS Code
       Eclipse
 ```
 
 ---
 
-# V. 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ducanhngo&theme=github_dark"
-  width="98%"
-  alt="GitHub Profile Details"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Ducanhngo&theme=github-dark-blue&hide_border=true"
-  width="62%"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td>
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ducanhngo&theme=github_dark"
-alt="Repos per Language">
-</td>
-
-<td>
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ducanhngo&theme=github_dark"
-alt="Most Commit Language">
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ducanhngo&theme=github_dark"
-alt="Stats">
-</td>
-
-<td>
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ducanhngo&theme=github_dark&utcOffset=7"
-alt="Productive Time">
-</td>
-
-</tr>
-</table>
-
----
-
-# VI. 🧪 What I'm Currently Learning
+# `05 / CURRENT LEARNING`
 
 ```text
-Artificial Intelligence
+AI ENGINEERING
+│
 ├── Machine Learning
+│   ├── Models
+│   ├── Evaluation
+│   └── Feature Engineering
+│
 ├── Deep Learning
+│   ├── CNN
+│   ├── RNN
+│   ├── LSTM
+│   └── Transformers
+│
 ├── Computer Vision
 │   ├── YOLO
 │   └── OpenCV
+│
 ├── NLP
-│   ├── RNN
-│   ├── LSTM
-│   ├── Transformers
+│   ├── Embeddings
+│   ├── BERT
 │   └── LLM Applications
 │
-Software Engineering
-├── Java
-│   └── Spring Boot
-├── REST API
-├── MySQL
-├── Git / GitHub
-└── Docker
-
-Computer Science Foundations
-├── Database Systems
-├── Computer Networks
-├── Operating Systems
-└── Linux
+└── Production Engineering
+    ├── Java
+    ├── Spring Boot
+    ├── REST APIs
+    ├── MySQL
+    ├── Docker
+    └── Linux
 ```
 
 ---
 
-# VII. 🌐 Profile
+# `06 / GITHUB`
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ducanhngo&theme=github_dark"
+width="96%">
+
+<br><br>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ducanhngo&theme=github_dark"
+width="47%">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ducanhngo&theme=github_dark"
+width="47%">
+
+</div>
+
+---
+
+# `07 / CONNECT`
 
 <div align="center">
 
@@ -450,20 +403,13 @@ Computer Science Foundations
 </a>
 
 <a href="https://github.com/Ducanhngo?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-View_Repositories-0969DA?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View-All_Repositories-0969DA?style=for-the-badge&logo=github">
 </a>
 
-</div>
-
----
-
-# VIII. 👀 Visitor Statistics
-
-<div align="center">
+<br><br>
 
 <img
-src="https://komarev.com/ghpvc/?username=Ducanhngo&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
-alt="Profile Views">
+src="https://komarev.com/ghpvc/?username=Ducanhngo&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge">
 
 </div>
 
@@ -471,16 +417,14 @@ alt="Profile Views">
 
 <div align="center">
 
-### `Build • Learn • Create`
-
-<sub>
-Computer Science • Artificial Intelligence • Software Engineering
-</sub>
-
-<br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:07111f,50:10233f,100:1f3b67"
-/>
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│         BUILD • UNDERSTAND • IMPROVE         │
+│                                              │
+│       Computer Science × Intelligence        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
 </div>
