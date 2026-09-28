@@ -24,7 +24,7 @@ Computer Science Student • AI & Backend Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,mysql,git,github,linux,fedora,vscode,eclipse,postman,docker" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,mysql,git,github,linux,vscode,eclipse,postman,docker" />
 
 </p>
 ## 🚀 Featured Projects
