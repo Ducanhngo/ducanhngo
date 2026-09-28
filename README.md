@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Duc Anh GitHub Banner">
+<img src="https://raw.githubusercontent.com/Ducanhngo/ducanhngo/main/assets/banner.svg" width="100%" alt="Duc Anh GitHub Banner">
 
-<br>
+<br><br>
 
 ### `Computer Science × Artificial Intelligence × Software Engineering`
 
