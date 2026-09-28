@@ -4,7 +4,14 @@
 
 <br><br>
 
-### `Computer Science × Artificial Intelligence × Software Engineering`
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=1050&height=50&lines=ducanh%40fedora%3A~%24+Computer+Science+%C3%97+AI+%C3%97+Software+Engineering"
+  alt="Terminal typing animation"
+/>
+
+</div>
 
 <sub>
 Building intelligent systems, learning how they work, and turning ideas into real software.
