@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ducanhngo/ducanhngo/main/assets/banner.svg" width="100%" alt="Duc Anh GitHub Banner">
+<img src="https://raw.githubusercontent.com/Ducanhngo/ducanhngo/main/assets/profile-banner.svg" width="100%" alt="Duc Anh GitHub Banner">
 
 <br><br>
 
@@ -132,48 +132,54 @@ alt="Duc Anh">
 
 # `02 / FEATURED SYSTEMS`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 AI-Powered Checkout System
+**AI + CV + IoT + Web**
 
-> `AI + Computer Vision + IoT + Web`
+A smart retail checkout ecosystem combining object detection, RFID, Flask, Firebase, Android, and embedded devices.
 
-An intelligent retail checkout ecosystem combining **YOLOv11 object detection, RFID, Arduino, Flask, Firebase and Android applications**.
-
-`Python` `YOLO` `Flask` `Firebase` `Arduino` `RFID`
+**Stack:**  
+`Python` `YOLO` `Flask` `Firebase` `Arduino`
 
 [→ Explore repository](https://github.com/Ducanhngo/AI-Powered-Checkout-System)
 
 ---
 
-### 👁️ YOLOv10 Workplace Safety
+### 👁️ Car Detection
+**Object Detection**
 
-> `Computer Vision`
+A computer-vision project focused on detecting and localizing vehicles in images and video.
 
-Computer-vision experiments using **YOLOv10** for workplace-safety detection and visual inference.
-
-`Python` `YOLOv10` `Deep Learning` `Computer Vision`
-
-[→ Explore repository](https://github.com/Ducanhngo/Project_YOLOv10_Worksafety)
-
----
-
-### 🚗 Car Detection
-
-> `Object Detection`
-
-Vehicle-detection project exploring object detection, localization and real-time computer-vision workflows.
-
+**Stack:**  
 `Python` `YOLO` `OpenCV`
 
 [→ Explore repository](https://github.com/Ducanhngo/Car_Detection)
 
 ---
 
+### 🦺 YOLOv10 Workplace Safety
+**Computer Vision**
+
+A workplace-safety detection project using YOLOv10 for visual inference and detection experiments.
+
+**Stack:**  
+`Python` `YOLOv10` `Deep Learning`
+
+[→ Explore repository](https://github.com/Ducanhngo/Project_YOLOv10_Worksafety)
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🧠 Sarcasm Detection
+**Natural Language Processing**
 
-> `Natural Language Processing`
+An NLP project comparing classical ML models and deep-learning approaches for sentiment and sarcasm detection.
 
-Comparing classical machine-learning approaches with deep-learning models for **sentiment analysis and sarcasm detection**.
-
+**Stack:**  
 `Python` `NLP` `BERT` `Machine Learning`
 
 [→ Explore repository](https://github.com/Ducanhngo/Sarcasm-Detection)
@@ -181,40 +187,26 @@ Comparing classical machine-learning approaches with deep-learning models for **
 ---
 
 ### 📄 Document Q&A
+**LLM Application**
 
-> `LLM Application`
+A document question-answering app where users can upload files and ask questions about the content.
 
-A document question-answering application allowing users to upload documents and interact with their contents.
-
-`Python` `Streamlit` `LLM` `NLP`
+**Stack:**  
+`Python` `Streamlit` `LLM`
 
 [→ Explore repository](https://github.com/Ducanhngo/document-qa)
 
 ---
 
-### 🌐 More experiments
+### 🚙 More Projects
+- [CNN Project](https://github.com/Ducanhngo/CNN-Project)
+- [Text Image Project](https://github.com/Ducanhngo/Text_Image_Project)
+- [IoT Car Project](https://github.com/Ducanhngo/Iot_Car_Project)
+- [Heart Prediction](https://github.com/Ducanhngo/Heart_Prediction)
 
-<p align="center">
-
-<a href="https://github.com/Ducanhngo/CNN-Project">
-<img src="https://img.shields.io/badge/CNN-Project-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/Ducanhngo/Text_Image_Project">
-<img src="https://img.shields.io/badge/Text_Image-Project-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/Ducanhngo/Iot_Car_Project">
-<img src="https://img.shields.io/badge/IoT-Car-181717?style=for-the-badge&logo=arduino">
-</a>
-
-<a href="https://github.com/Ducanhngo/Heart_Prediction">
-<img src="https://img.shields.io/badge/Heart-Prediction-181717?style=for-the-badge">
-</a>
-
-</p>
-
----
+</td>
+</tr>
+</table>
 
 # `03 / TECH ARSENAL`
 
@@ -399,17 +391,22 @@ width="47%">
 <div align="center">
 
 <a href="https://github.com/Ducanhngo">
-<img src="https://img.shields.io/badge/GitHub-Ducanhngo-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Ducanhngo-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://github.com/Ducanhngo?tab=repositories">
-<img src="https://img.shields.io/badge/View-All_Repositories-0969DA?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/View-All%20Repositories-0969DA?style=for-the-badge&logo=github" alt="Repositories">
 </a>
 
-<br><br>
+</div>
 
-<img
-src="https://komarev.com/ghpvc/?username=Ducanhngo&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge">
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Ducanhngo?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+
+<img src="https://img.shields.io/github/stars/Ducanhngo?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
 
 </div>
 
